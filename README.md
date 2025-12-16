@@ -1,6 +1,3 @@
-# Physical design using open-source EDA Tools
-This Repository contains all the information needed for physical design flow for your IPs or SOCs using qflow and other opensource tools. The Repository was created during the Beginner Physical design using open-source EDA Tools conducted by Kunal Ghosh - [(VLSI System Design)](https://www.vlsisystemdesign.com/).
-<br/>
 
 # Table of Contents
 1. **Day-1**
@@ -572,6 +569,3 @@ alt="alt text"  >
 <p/>
 <br/>
 
-# Acknowledgements:
-* Kunal Ghosh, Co-founder (VSD Corp. Pvt. Ltd)
-* Nickson P Jose, Teaching Assistant (VSD Corp. Pvt. Ltd)
